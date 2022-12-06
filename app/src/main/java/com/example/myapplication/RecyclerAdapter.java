@@ -25,11 +25,13 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
 
         private TextView name;
         private TextView dept;
+        private TextView comp;
 
         public ItemViewHolder(@NonNull View itemView) {
             super(itemView);
             name = (TextView) itemView.findViewById(R.id.name);
             dept = (TextView) itemView.findViewById(R.id.dept);
+            comp =(TextView) itemView.findViewById(R.id.comp);
         }
     }
     @NonNull
@@ -59,8 +61,9 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
                 ItemViewHolder itemViewHolder = (ItemViewHolder) viewHolder;
                 Data data = (Data) listRecyclerItem.get(i);
 
-                itemViewHolder.name.setText(data.getName());//specify
-                itemViewHolder.dept.setText(data.getDept());//specift
+                itemViewHolder.name.setText(data.getName());
+                itemViewHolder.dept.setText(data.getDept());
+                itemViewHolder.comp.setText(data.getComp());
         }
 
     }

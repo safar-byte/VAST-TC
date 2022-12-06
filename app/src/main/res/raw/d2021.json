@@ -1,0 +1,642 @@
+[
+    {
+        "name": "Neema S S",
+        "branch": "CE",
+        "company": "TCS"
+    },
+    {
+        "name": "Anupama C S",
+        "branch": "CE",
+        "company": "TCS"
+    },
+    {
+        "name": "Shahna S",
+        "branch": "CSE",
+        "company": "TCS"
+    },
+    {
+        "name": "Pradipta Mukherjee",
+        "branch": "CSE",
+        "company": "Infosys"
+    },
+    {
+        "name": "Sreereshmi M S",
+        "branch": "ECE",
+        "company": "Infosys"
+    },
+    {
+        "name": "Jithesh Jayakumar",
+        "branch": "ECE",
+        "company": "Infosys"
+    },
+    {
+        "name": "Avani S",
+        "branch": "ECE",
+        "company": "Infosys"
+    },
+    {
+        "name": "Adesh Anand",
+        "branch": "ME ",
+        "company": "Infosys"
+    },
+    {
+        "name": "Aswin R S",
+        "branch": "ME",
+        "company": "Infosys"
+    },
+    {
+        "name": "Sivanya V S",
+        "branch": "EEE",
+        "company": "Infosys"
+    },
+    {
+        "name": "Alisha S",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Adithya Murali L",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Anjitha Balachandran",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Vaishna V J",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Aromal Pramod",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Ashna Ajithprasad",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Gayathri Mohan",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Kavitha S",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Akash A",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Jissa Jaison",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Reshma R",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Sariga Rs",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Sandra Balachandran",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Aranya R Kumar",
+        "branch": "CE ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Aiswarya N S",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Gadha Gopan",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Sarath S Pillai",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Charutha J S",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Arya S Nair",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Bismi S",
+        "branch": "CE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Saubhagya J S",
+        "branch": "CE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Amal Raj U R",
+        "branch": "CE",
+        "company": "Equilibrium construction"
+    },
+    {
+        "name": "Silpa Sunil",
+        "branch": "CSE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Krishna Priya J",
+        "branch": "CSE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Bhagya R B",
+        "branch": "CSE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Drisya G S",
+        "branch": "CSE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Nithya Mohan",
+        "branch": "CSE ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Ammu T Saju",
+        "branch": "CSE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Shahina S R",
+        "branch": "CSE",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Junaid B S",
+        "branch": "CSE",
+        "company": "Pinnacle Software and Services Pvt. Ltd"
+    },
+    {
+        "name": "Shahina SR",
+        "branch": "CSE",
+        "company": "Pinnacle Software and Services Pvt. Ltd"
+    },
+    {
+        "name": "Vignesh M",
+        "branch": "CSE",
+        "company": "Headfitted Solutions Private Limited"
+    },
+    {
+        "name": "Adarsh A J",
+        "branch": "CSE",
+        "company": " Algotrak Private Limited"
+    },
+    {
+        "name": "Abhijith A S",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Abhishek S",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Abhitha Balachandran",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Amrutha A S",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Anukrishna R",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Archana G M",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Saira N S",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Sivanya V S",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Sangeeth P",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Althaf L S",
+        "branch": "EEE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Abhiram R Krishnan",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Achu. R",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Adithya Prem",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Sharan S",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Vinay V A",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Adarsh A",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Adesh V Anand",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Akhil Nanda N",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Akshay B L",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Ananthakrishnan V",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Ananthapadmanabhan G H",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Aswin R S",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Chandu M J",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Chirath N Vijayan",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Haris Rahim",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Jijo B",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Prathibha Chandran S",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Rahul B",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Rakesh L R",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Reshma Ajith",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Reshma R",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Sachin B S",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Sravan A",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Sreeju B S",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Thoufeek N A",
+        "branch": "ME ",
+        "company": "Sutherland"
+    },
+    {
+        "name": "Abhijith V A",
+        "branch": "ECE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Anjana Biju",
+        "branch": "ECE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Nabitha S",
+        "branch": "ECE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Jithesh Jayakumar",
+        "branch": "ECE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Keerthi B Raj",
+        "branch": "ECE",
+        "company": " Sutherland"
+    },
+    {
+        "name": "Rahul chandran",
+        "branch": "EEE",
+        "company": " Indoshell"
+    },
+    {
+        "name": "Abhishek.A.S",
+        "branch": "EEE",
+        "company": " Indoshell"
+    },
+    {
+        "name": "Abhijith.A.S",
+        "branch": "EEE",
+        "company": " Indoshell"
+    },
+    {
+        "name": "Kiran.B.lal",
+        "branch": "EEE",
+        "company": " Indoshell"
+    },
+    {
+        "name": "sanu thulasidharan",
+        "branch": "ME ",
+        "company": "Indoshell"
+    },
+    {
+        "name": "Chandu.MJ",
+        "branch": "ME ",
+        "company": "Indoshell"
+    },
+    {
+        "name": "Haris Rahim",
+        "branch": "ME ",
+        "company": "Indoshell"
+    },
+    {
+        "name": "Srabvan.A",
+        "branch": "ME ",
+        "company": "Indoshell"
+    },
+    {
+        "name": "Sharan.S",
+        "branch": "ME ",
+        "company": "Indoshell"
+    },
+    {
+        "name": "Ananthapadmanabhan",
+        "branch": "ME ",
+        "company": "Indoshell"
+    },
+    {
+        "name": "Muhamad.Irfan.F",
+        "branch": "ME ",
+        "company": "Indoshell"
+    },
+    {
+        "name": "Chirath.N.Vijayan",
+        "branch": "ME ",
+        "company": "Indoshell"
+    },
+    {
+        "name": "Akash A S",
+        "branch": "CSE",
+        "company": " Poornam Infovision Pvt Ltd"
+    },
+    {
+        "name": "Bhagya R B",
+        "branch": "CSE",
+        "company": " Poornam Infovision Pvt Ltd"
+    },
+    {
+        "name": "Krishna Priya J",
+        "branch": "CSE",
+        "company": " Poornam Infovision Pvt Ltd"
+    },
+    {
+        "name": "Abhijith V A",
+        "branch": "ECE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Anagha P",
+        "branch": "ECE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Haripriya P H",
+        "branch": "ECE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Jithesh Jayakumar",
+        "branch": "ECE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Nabitha S",
+        "branch": "ECE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Anagha P",
+        "branch": "ECE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Hareesh Kumar",
+        "branch": "ECE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Amrutha. A. S",
+        "branch": "EEE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Abhishek S",
+        "branch": "EEE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Sangeeth.P",
+        "branch": "EEE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Ajas A S",
+        "branch": "CSE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Shahina S R",
+        "branch": "CSE",
+        "company": " SeaSense"
+    },
+    {
+        "name": "Aswin R S",
+        "branch": "ME ",
+        "company": "SeaSense"
+    },
+    {
+        "name": "Vinay V.A.",
+        "branch": "ME ",
+        "company": "SeaSense"
+    },
+    {
+        "name": "Akhil Nanda N",
+        "branch": "ME",
+        "company": "SeaSense"
+    },
+    {
+        "name": "Mithun S S",
+        "branch": "ME ",
+        "company": "SeaSense"
+    },
+    {
+        "name": "Prathibha Chandran S",
+        "branch": "ME ",
+        "company": "SeaSense"
+    },
+    {
+        "name": "Chippy Sajanan S",
+        "branch": "CE ",
+        "company": "Repair Kochi"
+    },
+    {
+        "name": "Nijo Raj",
+        "branch": "ECE",
+        "company": " TOSIL Systems Pvt Ltd"
+    },
+    {
+        "name": "Ammu T Saju",
+        "branch": "CSE",
+        "company": " MariApps Marine Solutions"
+    },
+    {
+        "name": "JitheshJayakumar",
+        "branch": "ECE",
+        "company": " WIPRO"
+    },
+    {
+        "name": "Divyamol N.J",
+        "branch": "ECE",
+        "company": " Tech Mahindra."
+    },
+    {
+        "name": "Dana V G",
+        "branch": "EEE",
+        "company": " ARS T&T"
+    },
+    {
+        "name": "Ajas A S",
+        "branch": "CSE",
+        "company": " ARS T&T"
+    },
+    {
+        "name": "Ajas A S",
+        "branch": "CSE",
+        "company": " Inspirisys Solutions"
+    },
+    {
+        "name": "Divyamol N.J",
+        "branch": "ECE",
+        "company": " Ecesis Group of companies"
+    },
+    {
+        "name": "Keerthi B Raj",
+        "branch": "ECE",
+        "company": " Ecesis Group of companies"
+    },
+    {
+        "name": "Hareesh Kumar",
+        "branch": "ECE",
+        "company": " Ionaught Technologies"
+    },
+    {
+        "name": "Ammu Saju",
+        "branch": "CSE",
+        "company": " Alzone Softwares Pvt Ltd"
+    },
+    {
+        "name": "Ajas A S",
+        "branch": "CSE",
+        "company": " H&R Block- India"
+    }
+]

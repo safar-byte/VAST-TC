@@ -1,13 +1,186 @@
 [
-
-{"name":"Vishnu S S","branch":"ME"},
-{"name":"Aromal Sudersan","branch":"ME"},
-{"name":"Arun Krishnan","branch":"ME"},
-{"name":"Athul M A","branch":"ME"},
-{"name":"Bipin R S" ,"branch":"ME"},
-{"name":"Akhil Sivan" ,"branch":"ME"},
-{"name":"Hemanth S" ,"branch":"ME"},
-{"name":"Ashik S" ,"branch":"ME"},
-{"name":"Abhishek H" ,"branch":"ME"},
-{"name":"Praveen" ,"branch":"ME"}
-  ]
+  {
+    "name": "Vishnu S S",
+    "branch": "ME",
+    "company": "Suba Plastics Pvt Ltd"},
+  {
+    "name": "Aromal Sudersan",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Arun Krishnan",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Athul M A",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Bipin R S",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Akhil Sivan",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Hemanth S",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Ashik S",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Abhishek H",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Praveen",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Vikas Valsan Mavila",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Nandu B S",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Prabhudev P S",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Vishnu G",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Vishnu Jayakumar",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Akhil Raj R",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Robin A Kumar",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Jijin Mohan",
+    "branch": "ME",
+    "company": " Suba Plastics Pvt Ltd"
+  },
+  {
+    "name": "Abha M L",
+    "branch": "ECE",
+    "company": " Sea Sense"
+  },
+  {
+    "name": "Reshmanath V",
+    "branch": "ECE",
+    "company": " Sea Sense"
+  },
+  {
+    "name": "Sruthi S Sunil",
+    "branch": "ECE",
+    "company": " Sea Sense"
+  },
+  {
+    "name": "Sariga B N",
+    "branch": "ECE",
+    "company": " Sea Sense"
+  },
+  {
+    "name": "Igin C John",
+    "branch": "ME",
+    "company": " Sea Sense"
+  },
+  {
+    "name": "Athul Raj R",
+    "branch": "EEE",
+    "company": " Sea Sense"
+  },
+  {
+    "name": "Shameen A S",
+    "branch": "EEE",
+    "company": " Sea Sense"
+  },
+  {
+    "name": "Jai Vishnu",
+    "branch": "CE",
+    "company": " IDBI FEDERAL"
+  },
+  {
+    "name": "Akhil S R Nair",
+    "branch": "ME",
+    "company": " IDBI FEDERAL"
+  },
+  {
+    "name": "Krishnaraj V",
+    "branch": "ME",
+    "company": " IDBI FEDERAL"
+  },
+  {
+    "name": "Vigneesh",
+    "branch": "ECE",
+    "company": " IDBI FEDERAL"
+  },
+  {
+    "name": "Abhirami Vijay",
+    "branch": "CE",
+    "company": " IDBI FEDERAL"
+  },
+  {
+    "name": "Anjali Salim Kumar",
+    "branch": "CE",
+    "company": " IDBI FEDERAL"
+  },
+  {
+    "name": "Harikrishnan K S",
+    "branch": "ECE",
+    "company": " IDBI FEDERAL"
+  },
+  {
+    "name": "Vivek I Vikraman",
+    "branch": "ME",
+    "company": " IDBI FEDERAL"
+  },
+  {
+    "name": "Vignesh A",
+    "branch": "ECE",
+    "company": " Quest"
+  },
+  {
+    "name": "Divya S",
+    "branch": "CE",
+    "company": " Calsys Communication"
+  },
+  {
+    "name": "Aswathy Nakul Das",
+    "branch": "ECE",
+    "company": " Calsys Communication"
+  },
+  {
+    "name": "Vineeth B S",
+    "branch": "ECE",
+    "company": " Indo Mould Shell Limited"
+  }
+]

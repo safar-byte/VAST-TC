@@ -1,0 +1,827 @@
+[
+    {
+        "name": " Navaneeth PS ",
+        "branch": "CSE",
+        "company": " IBS"
+    },
+    {
+        "name": " Arun S ",
+        "branch": "CSE",
+        "company": " IBS"
+    },
+    {
+        "name": " Abhaynath K ",
+        "branch": "CSE",
+        "company": " IBS"
+    },
+    {
+        "name": " Aromal Biju ",
+        "branch": "CSE",
+        "company": " IBS"
+    },
+    {
+        "name": " Sha Mohammed shaji ",
+        "branch": "CSE",
+        "company": " IBS"
+    },
+    {
+        "name": " Ameen Jafar ",
+        "branch": "CE",
+        "company": " TCS"
+    },
+    {
+        "name": " Vipin Sundar ",
+        "branch": "CSE",
+        "company": " TCS"
+    },
+    {
+        "name": " Ajas Muhammed ",
+        "branch": "CSE",
+        "company": " Quest Global"
+    },
+    {
+        "name": " Vipin Sundar ",
+        "branch":  "CSE",
+        "company": " Quest Global"
+    },
+    {
+        "name": " Praveen P ",
+        "branch": "CSE",
+        "company": " Triassic Solutions"
+    },
+    {
+        "name": " Jeni J Mol ",
+        "branch": "CSE",
+        "company": " Poornam Info Vision Pvt. Ltd"
+    },
+    {
+        "name": " Sangeeth R S ",
+        "branch": "CSE",
+        "company": " Headfitted Solutions Pvt Ltd"
+    },
+    {
+        "name": " Saranthu S ",
+        "branch": "CSE",
+        "company": " Headfitted Solutions Pvt Ltd"
+    },
+    {
+        "name": " Abhaynath K ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Akhila ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Aswin S ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Bijila ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Fathima ",
+        "branch": "ECE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Gururajasagar ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Laya ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Malavika ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Midhun ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Nayanthara ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Pavithra ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Renesh ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Selsha ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Sreelekshmi ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Sumayya ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Libin philip ",
+        "branch": "ME",
+        "company": " Indoshell Mould Pvt ltd."
+    },
+    {
+        "name": " Ashok A ",
+        "branch": "ME",
+        "company": " Indoshell Mould Pvt ltd."
+    },
+    {
+        "name": " Mohammed Arif ",
+        "branch": "ME",
+        "company": " Indoshell Mould Pvt ltd."
+    },
+    {
+        "name": " Goutham Krishnan U ",
+        "branch": "ME",
+        "company": " Indoshell Mould Pvt ltd."
+    },
+    {
+        "name": " Ram Prakash J D ",
+        "branch": "EEE",
+        "company": " Indoshell Mould Pvt ltd."
+    },
+    {
+        "name": " Midhun T P ",
+        "branch": "EEE",
+        "company": " Indoshell Mould Pvt ltd."
+    },
+    {
+        "name": " Kiran Das ",
+        "branch": "EEE",
+        "company": " Indoshell Mould Pvt ltd."
+    },
+    {
+        "name": " Pooja S ",
+        "branch": "EEE",
+        "company": " Indoshell Mould Pvt ltd."
+    },
+    {
+        "name": " Maneesha M ",
+        "branch": "EEE",
+        "company": " Indoshell Mould Pvt ltd."
+    },
+    {
+        "name": " Praveen P ",
+        "branch": "CSE",
+        "company": " Litmus7 Systems"
+    },
+    {
+        "name": " Navaneeth PS ",
+        "branch": "CSE",
+        "company": " UST Global"
+    },
+    {
+        "name": " Nimisha RS ",
+        "branch": "CSE",
+        "company": " UST Global"
+    },
+    {
+        "name": " Sreerag S Sivan ",
+        "branch": "CSE",
+        "company": " UST Global"
+    },
+    {
+        "name": " Ansil J ",
+        "branch": "CSE",
+        "company": " Infosys"
+    },
+    {
+        "name": " Abhinandh VJ ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Abilash T ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Adarsh P Deep ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Adarsh S K ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Adheena S Nair ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Adithya S ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Ajeena Banu SN ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Akshay P ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Albin Alex A ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Anandhu A M ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Anjana Krishnan ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Anju VS ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Ansil J ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Anuja A ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Aparna V Kumar ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Arun krishna V ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Arunlal A ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Arya S Raj ",
+        "branch": "ECE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Aswathy R ",
+        "branch": "ECE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Avani B Nair ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Bhavika M Das ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Darsana AS ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Divya Mohan ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Drisiya J ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Farha M ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Gopika V ",
+        "branch": "ECE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Goutham Krishnan U ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Harisankar MS ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Jaganth Chandran C R ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Jestin S Mathew ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Jijo George ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Lekshmi RK ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Lekshmi Asokan ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Libin Philip ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Abhaynath K ",
+        "branch": "CSE",
+        "company": " Speridian Technologies"
+    },
+    {
+        "name": " Praveen P ",
+        "branch": "CSE",
+        "company": " Speridian Technologies"
+    },
+    {
+        "name": " Anas Mohammed N ",
+        "branch": "EEE",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Sajay S",
+        "branch": " ECE",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Nithin Prasad ",
+        "branch": "ECE",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Ajayadwaith AS ",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Aromal U Krishnan ",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Sayid Muhammed S ",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Anooj SA ",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Ananthu MS ",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Harishankar MS ",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Libin Philip",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Jaganth Chandran CR ",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Aneesh P Samuel ",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Vimal Vijayan ",
+        "branch": "ECE",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Manusha M ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Mariyath Yousaf ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Muhammed Amanullah A J ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Naja N S ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Nimisha R S ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Pooja S ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Rahul R ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Remya R ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Rohini ",
+        "branch": "ECE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Rohini A S ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Ruksana Salim ",
+        "branch": "ECE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Sanil J R ",
+        "branch": "ME",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Saranya Raj S ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Sneha ",
+        "branch": "EEE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Sreerag S Sivan ",
+        "branch": "CSE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Vaishna Raj R ",
+        "branch": "ECE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Vaishnavi Sumesh ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Muhammed Hashim ",
+        "branch": "CE",
+        "company": " SUTHERLAND"
+    },
+    {
+        "name": " Vishnulal S ",
+        "branch": "ME",
+        "company": " Amogh Spin Weaves Pvt. Ltd."
+    },
+    {
+        "name": " Ajeena Banu S N ",
+        "branch": "CSE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Arjun Anil Dutt ",
+        "branch": "CSE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Ayana Vijayan ",
+        "branch": "CSE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Sai Vishnu S ",
+        "branch": "CSE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Divya Mohan ",
+        "branch": "CSE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Arunkumar A ",
+        "branch": "ECE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Anandhu Krishnan ",
+        "branch": "ECE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Farsana S ",
+        "branch": "ECE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Brahmadath V ",
+        "branch": "ECE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Christy Johnson ",
+        "branch": "ECE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Jishnu B ",
+        "branch": "ME",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Gokul S ",
+        "branch": "ME",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Sanjay S ",
+        "branch": "ME",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Rithul Krishna V S ",
+        "branch": "CSE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Aswajith P Nair ",
+        "branch": "CSE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Gopika V ",
+        "branch": "ECE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Arya S Raj ",
+        "branch": "ECE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Aseenabeevi F S ",
+        "branch": "ECE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Devna A S ",
+        "branch": "CSE",
+        "company": " SEA SENSE SOFTWARE Pvt. Ltd."
+    },
+    {
+        "name": " Akshay S Kumar ",
+        "branch": "EEE",
+        "company": " DOITER CASTINGS Pvt. Ltd."
+    },
+    {
+        "name": " Anzil A ",
+        "branch": "ME",
+        "company": " DOITER CASTINGS Pvt. Ltd."
+    },
+    {
+        "name": " Akshay P ",
+        "branch": "ME",
+        "company": " DOITER CASTINGS Pvt. Ltd."
+    },
+    {
+        "name": " Ananthu M S ",
+        "branch": "ME",
+        "company": " DOITER CASTINGS Pvt. Ltd."
+    },
+    {
+        "name": " Binesh B ",
+        "branch": "ME",
+        "company": " DOITER CASTINGS Pvt. Ltd."
+    },
+    {
+        "name": " Jawahar A P ",
+        "branch": "ME",
+        "company": " DOITER CASTINGS Pvt. Ltd."
+    },
+    {
+        "name": " Thaufin A N ",
+        "branch": "ME",
+        "company": " DOITER CASTINGS Pvt. Ltd."
+    },
+    {
+        "name": " Vishnu Gokul ",
+        "branch": "ME",
+        "company": " DOITER CASTINGS Pvt. Ltd."
+    },
+    {
+        "name": " Aswin Das ",
+        "branch": "ME",
+        "company": " DOITER CASTINGS Pvt. Ltd."
+    },
+    {
+        "name": " Abhaynath K ",
+        "branch": "CSE",
+        "company": " Infosys"
+    },
+    {
+        "name": " Aswathy R ",
+        "branch": "ECE",
+        "company": " Infosys"
+    },
+    {
+        "name": " Gokul S ",
+        "branch": "ME",
+        "company": " Texmo Industries"
+    },
+    {
+        "name": " Sanjay S ",
+        "branch": "ME",
+        "company": " Texmo Industries"
+    },
+    {
+        "name": " Midhun TP ",
+        "branch": "EEE",
+        "company": " Texmo Industries"
+    },
+    {
+        "name": " Pavithra B ",
+        "branch": "CSE",
+        "company": " Engineeringpsc"
+    },
+    {
+        "name": " Lekshmi KJ ",
+        "branch": "CSE",
+        "company": " Engineeringpsc"
+    },
+    {
+        "name": " Upasana Unnikrishnan ",
+        "branch": "CSE",
+        "company": " Engineeringpsc"
+    },
+    {
+        "name": " Adithya S Darsan ",
+        "branch": "EEE",
+        "company": " Engineeringpsc"
+    },
+    {
+        "name": " Abhirami S ",
+        "branch": "EEE",
+        "company": " Engineeringpsc"
+    },
+    {
+        "name": " Vidhya V ",
+        "branch": "EEE",
+        "company": " Engineeringpsc"
+    },
+    {
+        "name": " A. M. Anandhu ",
+        "branch": "EEE",
+        "company": " Doiter Castings"
+    },
+    {
+        "name": " Jestin S Mathew ",
+        "branch": "EEE",
+        "company": " Doiter Castings"
+    },
+    {
+        "name": " L. Althaf ",
+        "branch": "ME",
+        "company": " Doiter Castings"
+    },
+    {
+        "name": " G. L. Gokul ",
+        "branch": "ME",
+        "company": " Doiter Castings"
+    },
+    {
+        "name": " Rahul R ",
+        "branch": "EEE",
+        "company": " Doiter Castings"
+    },
+    {
+        "name": " Nitya S ",
+        "branch": "EEE",
+        "company": " Engineeringpsc"
+    },
+    {
+        "name": " Akshay Raju ",
+        "branch": "EEE",
+        "company": " Doiter Castings"
+    },
+    {
+        "name": " Tibin Benny ",
+        "branch": "EEE",
+        "company": " Doiter Castings"
+    },
+    {
+        "name": " Vishnu V ",
+        "branch": "ECE",
+        "company": " Resilience Group"
+    },
+    {
+        "name": " Ram Prakash ",
+        "branch": "EEE",
+        "company": " Techversant Infotech Pvt. Ltd."
+    },
+    {
+        "name": " Ayana Vijayan ",
+        "branch": "CSE",
+        "company": " THINKPALM"
+    },
+    {
+        "name": " Divya Mohan ",
+        "branch": "CSE",
+        "company": " THINKPALM"
+    },
+    {
+        "name": " Vaisakh S B ",
+        "branch": "ECE",
+        "company": " SOFTLAND INDIA Ltd."
+    },
+    {
+        "name": " Abhijith S Krishnan ",
+        "branch": "CE",
+        "company": " ROBOS Builders & Designers Pvt. Ltd."
+    },
+    {
+        "name": " Devna A S ",
+        "branch": "CSE",
+        "company": " Macrosoft IT Solutions India Pvt. Ltd."
+    },
+    {
+        "name": " Pavithra B ",
+        "branch": "CSE",
+        "company": " RM Education Solutions India Pvt. Ltd."
+    }
+]

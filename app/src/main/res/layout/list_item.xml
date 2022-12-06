@@ -28,6 +28,12 @@
             android:textSize="23sp"
             android:id="@+id/dept"
             android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Comp"
+            android:textSize="23sp"
+            android:id="@+id/comp"
+            android:layout_height="wrap_content"/>
 
     </LinearLayout>
 

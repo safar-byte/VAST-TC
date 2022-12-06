@@ -1,5 +1,6 @@
 package com.example.myapplication;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -32,6 +33,7 @@ public class Company extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_company);
 
+
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view);
         // use this setting to improve performance if you know that changes
         // in content do not change the layout size of the RecyclerView
@@ -60,8 +62,9 @@ public class Company extends AppCompatActivity {
 
                 String name = itemObj.getString("name");
                 String dept = itemObj.getString("branch");
+                String comp = itemObj.getString("company");
 
-                Data data = new Data(name, dept);
+                Data data = new Data(name, dept,comp);
                 viewItems.add(data);
             }
 
@@ -74,11 +77,34 @@ public class Company extends AppCompatActivity {
 
         InputStream inputStream = null;
         StringBuilder builder = new StringBuilder();
-
         try {
-
+            Intent i =getIntent();
+            String datapass = i.getStringExtra("NAME"); //datapass is data from pace_year
             String jsonString = null;
-            inputStream = getResources().openRawResource(R.raw.d2017);
+            switch (datapass){
+                case "2017":
+                    inputStream = getResources().openRawResource(R.raw.d2017);
+                    break;
+                case "2018":
+                    inputStream = getResources().openRawResource(R.raw.d2018);
+                    break;
+                case "2019":
+                    inputStream = getResources().openRawResource(R.raw.d2019);
+                    break;
+                case "2020":
+                    inputStream = getResources().openRawResource(R.raw.d2020);
+                    break;
+                case "2021":
+                    inputStream = getResources().openRawResource(R.raw.d2021);
+                    break;
+                case "2022":
+                    inputStream = getResources().openRawResource(R.raw.d2022);
+                    break;
+                default:
+                    inputStream = getResources().openRawResource(R.raw.ddefault);
+
+            }
+
             BufferedReader bufferedReader = new BufferedReader(
                     new InputStreamReader(inputStream, "UTF-8"));
 
