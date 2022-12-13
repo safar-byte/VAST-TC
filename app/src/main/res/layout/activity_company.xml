@@ -10,8 +10,8 @@
     <TextView
         android:id="@+id/textView2"
         android:layout_width="412dp"
-        android:layout_height="42dp"
-        android:text="COMPANY"
+        android:layout_height="0dp"
+        android:text=""
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
