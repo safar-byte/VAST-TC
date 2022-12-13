@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.vasttc;
 
 import android.content.Context;
 import android.view.LayoutInflater;

@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.vasttc;
 
 public class Data {
     private final String name;
